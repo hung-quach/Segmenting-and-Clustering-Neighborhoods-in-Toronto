@@ -6,3 +6,7 @@ In this project, I did the following main tasks:
 3. Use the explore function to get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters. 
 4. Use the k-means clustering algorithm to complete this task. 
 5. Use the Folium library to visualize the neighborhoods in Toronto and their emerging cluster
+
+Dataset:
+- Postal Codes of Canada: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+- Foursquare API
